@@ -1,5 +1,5 @@
 # c-examples
-A repo containing different examples written in the C programming language
+A repo containing different examples written in the C programming language. Inspired by [Go by Example](https://gobyexample.com/), as well as many other helpful websites and tutorials.
 
 ### Compiling
 
