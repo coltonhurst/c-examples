@@ -1,12 +1,14 @@
 /*
     Example 3
 
-    In C, you can make constant. A constant is a fixed value that can't be changed.
-    Constants are also known as 'literals'.
+    In C, you can create constants! A constant is a fixed value that can't be changed.
+    Constants, that hold fixed values, are also known as 'literals'.
     You can use them as regular variables, save the fact that they can't be changed.
 
     You can define them two different ways... One, using the preprocessor directive '#define'
     The other way is to use the keyword 'const'
+
+    Notice that with const, you also need to define the type
 */
 
 #include <stdio.h>
