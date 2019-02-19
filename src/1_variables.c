@@ -3,6 +3,10 @@
 
     Variables are simply names for data storage locations.
 
+    You declare variables in the simple form: type variableName;
+    You can also initialize at the same time with: type variableName = value;
+    See examples below for more info.
+
     There are a few data types in C. Below are some examples, but a list by C revision number can be found here:
     https://en.wikibooks.org/wiki/C_Programming/Language_Reference
 
