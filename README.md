@@ -17,3 +17,4 @@ If there are any bugs in the code or information that is incorrect, please submi
 0. [Hello World](/src/0_hello-world.c)
 1. [Variables](/src/1_variables.c)
 2. [Operators](/src/2_operators.c)
+3. [Constants](/src/3_constants.c)

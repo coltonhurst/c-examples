@@ -13,7 +13,7 @@
 
 #include <stdio.h>
 
-int main()
+int main(void)
 {
     int ourBakersDozen = 13;
     printf("A bakers' dozen has %d donuts in it.\n", ourBakersDozen);
