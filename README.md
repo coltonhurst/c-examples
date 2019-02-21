@@ -14,7 +14,13 @@ If there are any bugs in the code or information that is incorrect, please submi
 
 ### List of Examples
 
-0. [Hello World](/src/0_hello-world.c)
-1. [Variables](/src/1_variables.c)
-2. [Operators](/src/2_operators.c)
-3. [Constants](/src/3_constants.c)
+0. [Hello World](/examples/0_hello-world.c)
+1. [Variables](/examples/1_variables.c)
+2. [Operators](/examples/2_operators.c)
+3. [Constants](/examples/3_constants.c)
+
+### Case Examples
+
+These are more... "eccentric" examples of behavior in C (Most probably work just as intended, but they may not make immediate sense to the programmer). I'll do my best to explain them, but you should definitely research these on your own, and correct me when I explain things incorrectly.
+
+- [Integer Promotion](/case-examples/integer-promotion.c)
