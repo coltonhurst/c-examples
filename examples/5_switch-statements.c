@@ -6,7 +6,9 @@
     based on the result of the expression.
 
     If there is a 'break;' after a case, the switch stops there. If there isn't, it will "fall through",
-    executing what's in each case, until it hits a 'break;' statement. (see second switch statement for an example)
+    executing what's in each case, until it hits a 'break;' statement. (See second switch statement for an example.)
+
+    There is also the 'default' statement. If no case is hit, the default will be executed.
 */
 
 #include <stdio.h>
