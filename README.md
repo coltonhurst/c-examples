@@ -18,7 +18,8 @@ If there are any bugs in the code or information that is incorrect, please submi
 1. [Variables](/examples/1_variables.c)
 2. [Operators](/examples/2_operators.c)
 3. [Constants](/examples/3_constants.c)
-3. [If Statements](/examples/4_if-statements.c)
+4. [If Statements](/examples/4_if-statements.c)
+5. [Switch Statements](/examples/5_switch-statements.c)
 
 ### Case Examples List
 
