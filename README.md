@@ -21,6 +21,7 @@ If there are any bugs in the code or information that is incorrect, please submi
 4. [If Statements](/examples/4_if-statements.c)
 5. [Switch Statements](/examples/5_switch-statements.c)
 6. [While Loop](/examples/6_while-loop.c)
+7. [Do-While Loop](/examples/7_do-while-loop.c)
 
 ### Case Examples List
 
