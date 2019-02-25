@@ -2,7 +2,8 @@
     Example 9
 
     Functions make C powerful. Think of a function like it would be in math... an ADD function might
-    take two values, and return 1, the sum.
+    take two values, and return 1, the sum. With functions, we can eliminate duplicate code and make
+    the code more readable.
 
     When functions are called, the function needs to be known. If it's not defined prior to the calling
     location, there needs to be a function prototype. Think of this as the blueprint for the function.
