@@ -5,7 +5,7 @@ A git repo containing different examples written in the C programming language. 
 
 You can compile the code with any C compiler that supports the ISO [C90](https://www.pdf-archive.com/2014/10/02/ansi-iso-9899-1990-1/ansi-iso-9899-1990-1.pdf) standard.
 
-All code has been tested compiled with `gcc -std='c90'`
+All code that can be compiled has been compiled with `gcc -std='c90'`
 
 ### Bugs/Comments
 
@@ -24,6 +24,7 @@ If there are any bugs in the code or information that is incorrect, please submi
 7. [Do-While Loop](/examples/7_do-while-loop.c)
 8. [For Loop](/examples/8_for-loop.c)
 9. [Functions](/examples/9_functions.c)
+10. [Scope of Variables](/examples/10_scope.c)
 
 ### Case Examples List
 
