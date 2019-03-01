@@ -8,7 +8,12 @@
     Below, we call randomFunction(), which you would think declares and initializes iAmAStaticVariable to 10, prints 10, and increments it.
     Because it's called a few times, but the function ends and it goes out of scope, it should just print 10 over and over...
 
-    BUT! Because it's static, it's "permanently" there!
+    BUT! Because it's static, it's "permanently" there! So, it prints:
+
+    10
+    11
+    12
+    13
 */
 
 #include <stdio.h>
