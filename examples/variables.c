@@ -1,5 +1,5 @@
 /*
-    Example 1
+    Variables
 
     Variables are simply names for data storage locations.
 

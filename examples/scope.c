@@ -1,5 +1,5 @@
 /*
-    Example 10
+    Scope
 
     Here we look at examples of "scope". Scope is a region or an area where something is valid or accessible.
     This also has an example where we pass a variable by value... this means we make a copy of it inside the function,

@@ -14,17 +14,18 @@ If there are any bugs in the code or information that is incorrect, please submi
 
 ### Examples List
 
-0. [Hello World](/examples/0_hello-world.c)
-1. [Variables](/examples/1_variables.c)
-2. [Operators](/examples/2_operators.c)
-3. [Constants](/examples/3_constants.c)
-4. [If Statements](/examples/4_if-statements.c)
-5. [Switch Statements](/examples/5_switch-statements.c)
-6. [While Loop](/examples/6_while-loop.c)
-7. [Do-While Loop](/examples/7_do-while-loop.c)
-8. [For Loop](/examples/8_for-loop.c)
-9. [Functions](/examples/9_functions.c)
-10. [Scope of Variables](/examples/10_scope.c)
+- [Hello World](/examples/hello-world.c)
+- [Variables](/examples/variables.c)
+- [Operators](/examples/operators.c)
+- [Constants](/examples/constants.c)
+- [If Statements](/examples/if-statements.c)
+- [Switch Statements](/examples/switch-statements.c)
+- [While Loop](/examples/while-loop.c)
+- [Do-While Loop](/examples/do-while-loop.c)
+- [For Loop](/examples/for-loop.c)
+- [Functions](/examples/functions.c)
+- [Scope of Variables](/examples/scope.c)
+- [Static Variables](/examples/static-variables.c)
 
 ### Case Examples List
 

@@ -1,5 +1,5 @@
 /*
-    Example 0
+    Hello World
 
     The famous 'Hello world' program.
     We include the stdio.h header (standard in/out) so we have access to the printf() function.

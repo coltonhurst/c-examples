@@ -1,5 +1,5 @@
 /*
-    Example 6
+    While Loop
 
     The while loop is a looping construct in C. The loop body executes as long as the
     test expression evaluates to true. Once it evaluates to false, the loop stops.

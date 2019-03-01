@@ -1,5 +1,5 @@
 /*
-    Example 2
+    Operators
 
     C has operators to 'do something' to one or more values.
     Below are some examples of operators.

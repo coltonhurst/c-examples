@@ -1,5 +1,5 @@
 /*
-    Example 7
+    Do While Loop
 
     The do-while loop. The same as a while loop, except the loop body
     is executed once *before* the test expression. So, at minimum, the code

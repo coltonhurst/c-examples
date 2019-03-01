@@ -1,5 +1,5 @@
 /*
-    Example 5
+    Switch Statements
 
     Similar to the if statement, a switch statement is a conditional statement.
     It accepts an expression (or variable, etc), and runs through a list of cases to compare to

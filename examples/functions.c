@@ -1,5 +1,5 @@
 /*
-    Example 9
+    Functions
 
     Functions make C powerful. Think of a function like it would be in math... an ADD function might
     take two values, and return 1, the sum. With functions, we can eliminate duplicate code and make

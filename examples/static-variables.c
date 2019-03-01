@@ -1,5 +1,5 @@
 /*
-    Example 11
+    Static Variables
 
     C has something called 'static' variables. This means that there is only one location where this variable points to
     (so it's not in the stack). A static variable is initialized once, and then all changes to it that are done in the future
@@ -28,7 +28,7 @@ int main(void)
 void randomFunction()
 {
     static int iAmAStaticVariable = 10;
-    
+
     printf("%d\n", iAmAStaticVariable);
 
     iAmAStaticVariable++;

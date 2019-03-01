@@ -1,5 +1,5 @@
 /*
-    Example 4
+    If statements
 
     In C, we have conditional statements (aka if statements).
     An expression is "tested", and if the result is true, we execute the block

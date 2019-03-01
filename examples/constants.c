@@ -1,5 +1,5 @@
 /*
-    Example 3
+    Constants
 
     In C, you can create constants! A constant is a fixed value that can't be changed.
     Constants, that hold fixed values, are also known as 'literals'.

@@ -1,5 +1,5 @@
 /*
-    Example 8
+    For Loop
 
     The C for loop is another looping construct. However, this not only checks an expression to determine if it
     should continue; it starts with an 'init' step, executed once before the loop. (Ex: to initalize a variable used
