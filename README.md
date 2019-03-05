@@ -27,6 +27,7 @@ If there are any bugs in the code or information that is incorrect, please submi
 - [Scope of Variables](/examples/scope.c)
 - [Static Variables](/examples/static-variables.c)
 - [Pointers](/examples/pointers.c)
+- [Passing Pointers](/examples/passing-pointers.c)
 
 ### Case Examples List
 
