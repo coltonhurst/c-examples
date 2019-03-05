@@ -28,6 +28,9 @@ int main(void)
     This function takes an int pointer as its parameter.
     Remember- all this means is that it takes a memory address to an int value.
 
+    This is passing a variable "by reference", because we're literally passing
+    the reference (to the address) of the variable.
+
     We'll add 10 to whatever was passed in, cuz when Bobby joins the party,
     he increases everything by 10!
 */
