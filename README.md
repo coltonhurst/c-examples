@@ -26,6 +26,7 @@ If there are any bugs in the code or information that is incorrect, please submi
 - [Functions](/examples/functions.c)
 - [Scope of Variables](/examples/scope.c)
 - [Static Variables](/examples/static-variables.c)
+- [Pointers](/examples/pointers.c)
 
 ### Case Examples List
 
