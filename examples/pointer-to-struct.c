@@ -55,6 +55,7 @@ void printEssayInformation(struct essay theEssay) {
     A function that accepts a pointer to an essay struct and prints the info.
 
     I spread out the print function to show how we can reference fields from a pointer to a struct.
+    Obviously, it removes some of the efficiency we were aiming for. However... it's just for example!
 */
 void printPointerEssayInformation(struct essay *theEssay) {
     int pageCount = (*theEssay).pageCount;  /* you can dereference 'theEssay' pointer
