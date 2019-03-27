@@ -29,6 +29,7 @@ If there are any bugs in the code or information that is incorrect, please submi
 - [Pointers](/examples/pointers.c)
 - [Passing Pointers](/examples/passing-pointers.c)
 - [Structs](/examples/structs.c)
+- [Pointers to Structs](/examples/pointer-to-struct.c)
 
 ### Case Examples List
 
