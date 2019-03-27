@@ -28,6 +28,7 @@ If there are any bugs in the code or information that is incorrect, please submi
 - [Static Variables](/examples/static-variables.c)
 - [Pointers](/examples/pointers.c)
 - [Passing Pointers](/examples/passing-pointers.c)
+- [Structs](/examples/structs.c)
 
 ### Case Examples List
 
