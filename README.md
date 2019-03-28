@@ -31,6 +31,8 @@ If there are any bugs in the code or information that is incorrect, please submi
 - [Structs](/examples/structs.c)
 - [Pointers to Structs](/examples/pointer-to-struct.c)
 - [Unions](/examples/union.c)
+- [Arrays](/examples/arrays.c)
+- [Strings](/examples/strings.c)
 
 ### Case Examples List
 
