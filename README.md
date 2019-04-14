@@ -1,5 +1,5 @@
 # c-examples
-A git repo containing different examples written in the C programming language. Inspired by [Go by Example](https://gobyexample.com/), [Beej's Guide to C Programming](https://beej.us/guide/bgc/html/multi/index.html), and many other helpful websites and tutorials. This repo is directed at those who already know how to program, or those that have used C but may need a refresher.
+A git repo containing different examples written in the C programming language. Inspired by [Go by Example](https://gobyexample.com/), [Beej's Guide to C Programming](https://beej.us/guide/bgc/html/multi/index.html), and many other helpful websites and tutorials. This repo is directed at those who already know how to program, or those that have used C but need a refresher.
 
 ### Compiling
 
@@ -10,7 +10,6 @@ All code that can be compiled has been compiled with `gcc -std='c90'`
 ### Bugs/Comments
 
 If there are any bugs in the code or information that is incorrect, please submit a PR, an issue via GitHub, or email me (my current email address can be found [here](https://www.coltonhurst.com/). I'm not amazing at C, but I'm doing this so I can understand it better. I appreciate all constructive help and feedback!
-
 
 ### Examples List
 
