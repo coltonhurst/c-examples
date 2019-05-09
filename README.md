@@ -13,27 +13,29 @@ If there are any bugs in the code or information that is incorrect, please submi
 
 ### Language Examples
 
-- [Hello World](/examples/hello-world.c)
-- [Variables](/examples/variables.c)
-- [Operators](/examples/operators.c)
-- [Constants](/examples/constants.c)
-- [If Statements](/examples/if-statements.c)
-- [Switch Statements](/examples/switch-statements.c)
-- [While Loop](/examples/while-loop.c)
-- [Do-While Loop](/examples/do-while-loop.c)
-- [For Loop](/examples/for-loop.c)
-- [Functions](/examples/functions.c)
-- [Scope of Variables](/examples/scope.c)
-- [Static Variables](/examples/static-variables.c)
-- [Pointers](/examples/pointers.c)
-- [Passing Pointers](/examples/passing-pointers.c)
-- [Structs](/examples/structs.c)
-- [Pointers to Structs](/examples/pointer-to-struct.c)
-- [Unions](/examples/union.c)
-- [Arrays](/examples/arrays.c)
-- [Strings](/examples/strings.c)
+- [Hello World](/lang-examples/hello-world.c)
+- [Variables](/lang-examples/variables.c)
+- [Operators](/lang-examples/operators.c)
+- [Constants](/lang-examples/constants.c)
+- [If Statements](/lang-examples/if-statements.c)
+- [Switch Statements](/lang-examples/switch-statements.c)
+- [While Loop](/lang-examples/while-loop.c)
+- [Do-While Loop](/lang-examples/do-while-loop.c)
+- [For Loop](/lang-examples/for-loop.c)
+- [Functions](/lang-examples/functions.c)
+- [Scope of Variables](/lang-examples/scope.c)
+- [Static Variables](/lang-examples/static-variables.c)
+- [Pointers](/lang-examples/pointers.c)
+- [Passing Pointers](/lang-examples/passing-pointers.c)
+- [Structs](/lang-examples/structs.c)
+- [Pointers to Structs](/lang-examples/pointer-to-struct.c)
+- [Unions](/lang-examples/union.c)
+- [Arrays](/lang-examples/arrays.c)
+- [Strings](/lang-examples/strings.c)
 
 ### Standard Library Examples
+
+- [malloc()](/libc-examples/malloc.c)
 
 ### Case Examples List
 
