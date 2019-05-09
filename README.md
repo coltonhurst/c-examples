@@ -11,7 +11,7 @@ All code that can be compiled has been compiled with `gcc -std='c90'`
 
 If there are any bugs in the code or information that is incorrect, please submit a PR, an issue via GitHub, or email me (my current email address can be found [here](https://www.coltonhurst.com/). I'm not amazing at C, but I'm doing this so I can understand it better. I appreciate all constructive help and feedback!
 
-### Examples List
+### Language Examples
 
 - [Hello World](/examples/hello-world.c)
 - [Variables](/examples/variables.c)
@@ -32,6 +32,8 @@ If there are any bugs in the code or information that is incorrect, please submi
 - [Unions](/examples/union.c)
 - [Arrays](/examples/arrays.c)
 - [Strings](/examples/strings.c)
+
+### Standard Library Examples
 
 ### Case Examples List
 
