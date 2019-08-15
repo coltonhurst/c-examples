@@ -11,6 +11,8 @@
     malloc() will return a void pointer to the first memory location
     where the blocks have been allocated. You should cast that void pointer
     into the appropriate pointer type. Below, we cast it to an int pointer.
+
+    Notice we also use free() on line 36 to give back our allocated memory.
 */
 
 #include <stdio.h>

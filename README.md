@@ -36,6 +36,7 @@ If there are any bugs in the code or information that is incorrect, please submi
 ### Standard Library Examples
 
 - [malloc()](/libc-examples/malloc.c)
+- [calloc()](/libc-examples/calloc.c)
 
 ### Case Examples List
 
