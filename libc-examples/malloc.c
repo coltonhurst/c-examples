@@ -31,5 +31,7 @@ int main(void)
         p++;        /* go to the next block in memory from the current location */
     }
 
+    free(p - i); /* free our allocated memory, we're done with it! */
+
     return 0;
 }
