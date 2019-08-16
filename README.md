@@ -32,6 +32,7 @@ If there are any bugs in the code or information that is incorrect, please submi
 - [Unions](/lang-examples/union.c)
 - [Arrays](/lang-examples/arrays.c)
 - [Strings](/lang-examples/strings.c)
+- [typedef](/lang-examples/typedef.c)
 
 ### Standard Library Examples
 
